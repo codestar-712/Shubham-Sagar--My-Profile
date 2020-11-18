@@ -649,7 +649,7 @@ container {
     height: 540px;
 }
 
-footer {
+.footer {
     background: linear-gradient(90deg, #03032f, black);
     font-family: serif;
     font-size: 20px;
